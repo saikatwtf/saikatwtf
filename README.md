@@ -1,12 +1,9 @@
-<h1 align="center">Hey&nbsp;<img src="https://raw.githubusercontent.com/saikatwtf/saikatwtf/master/Hi.gif" width="48"></a>, আমি সৈকত </h1>
+<h1 align="center">Hey&nbsp;<img src="https://raw.githubusercontent.com/saikatwtf/saikatwtf/master/Hi.gif" width="48"></a>, Hi! im Saikat </h1>
 
 <p align="center"> <a href="https://github.com/saikatwtf/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=saikatwtf&label=PROFILE%20VISITORS&color=blueviolet&style=for-the-badge" alt="saikat" /></a> </p><br>
 
-- 👋 Hi, I’m @saikatwtf
-- 👀 I’m interested in Coding, Learning,  Eating, Sleeping Bla bla bla...
-- 🌱 I’m currently learning Python and Pyrogram...
-- 💞️ I’m looking to collaboration with TheAvi aka [Proavipatil](https://github.com/Proavipatil).
-- 📫 How to reach me [AnnihilusOP](https://telegram.dog/AnnihilusOP_bot)...
+
+- How to reach me [AnnihilusOP](https://telegram.dog/AnnihilusOP_bot)...
 
 <!---
 saikatwtf/saikatwtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
