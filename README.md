@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-Lawyer-00FFF9?style=for-the-badge&logo=law&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Lover-Yes-ff00ff?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bot%20Creator-00FFAA?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/-Anime%20Fan-FF00A0?style=for-the-badge&logo=tvtime&logoColor=white" />
 </h1>
@@ -76,5 +76,5 @@ I bridge the worlds of law and technology, creating smart solutions that automat
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=Let's+redefine+the+future+of+law+and+tech+%F0%9F%9A%80" alt="Let's build the future together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB0&center=true&vCenter=true&width=500&lines=Let's+build+the+future+together+%F0%9F%9A%80" alt="Let's build the future together!" />
 </p>
